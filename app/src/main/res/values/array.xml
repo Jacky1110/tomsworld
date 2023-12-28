@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="member_type">
+        <item>==請選擇==</item>
+        <item>一般會員</item>
+        <item>經銷商會員</item>
+    </array>
+</resources>

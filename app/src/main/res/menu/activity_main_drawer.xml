@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_shop"
+            android:icon="@drawable/ic_action_menu"
+            android:title="購物商城" />
+        <item
+            android:id="@+id/nav_car"
+            android:icon="@drawable/ic_action_car"
+            android:title="購物車" />
+    </group>
+
+    <item android:title="Service">
+        <menu>
+            <item
+                android:id="@+id/nav_myrce"
+                android:icon="@drawable/ic_action_member"
+                android:checkable="true"
+                android:title="會員中心" />
+            <item
+                android:id="@+id/nav_info"
+                android:icon="@drawable/ic_action_info"
+                android:checkable="true"
+                android:title="客服中心" />
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "561630623439",
+    "firebase_url": "https://tomsworldapp.firebaseio.com",
+    "project_id": "tomsworldapp",
+    "storage_bucket": "tomsworldapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561630623439:android:f43b246b0e9afac0b729ba",
+        "android_client_info": {
+          "package_name": "com.jotangi.tomsworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561630623439-07o9d3icoog5jus6mkkchnuqm5fbjufv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO89ggdPBaa3KAUgcupZ6OywIWj1gQSRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561630623439-07o9d3icoog5jus6mkkchnuqm5fbjufv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "561630623439-nl8nlsam31qutq6pnsv6pf02t687mctp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jotangi.tomsworld"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
